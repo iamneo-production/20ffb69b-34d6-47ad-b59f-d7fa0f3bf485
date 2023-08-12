@@ -1,0 +1,40 @@
+{
+  "receipes": [
+    {
+      "id": 1,
+      "title": "Noodles",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.C3Ep0grJrP7VQASs-3ocnwHaFY?pid=ImgDet&rs=1",
+      "ingredients": "Noodles, Chicken,Tomato Suace, Onion",
+      "instruction": "1. Boil Noodels..\n2. cook the chicken... \n3 add Tomato sauce.."
+    },
+    {
+      "id": 2,
+      "title": "Manchurian",
+      "image": "https://th.bing.com/th/id/R.513eb4f029138675e7013e0fa3354829?rik=If9tEkJVaikAng&riu=http%3a%2f%2f1.bp.blogspot.com%2f-WKbiC_NNHJ8%2fVB01t-KaW6I%2fAAAAAAAAAO4%2fnLHpU6k9TV4%2fs1600%2fVegetable-manchurian.jpg&ehk=m99rIbbTjn5IBSrDSIdFcq3Qru98egZwndhPt5NHmfk%3d&risl=&pid=ImgRaw&r=0",
+      "ingredients": "Cabbage, Salt, Onion, Chiili Sauce",
+      "instruction": "1. Cut cabbages..2. cook the chicken... 3 add Tomato sauce.."
+    },
+    {
+      "id": 3,
+      "title": "Samosa",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.Xp2RQVjyCr3kN1G8VhcK_wHaE_?pid=ImgDet&rs=1",
+      "ingredients": "Noodles, Chicken,Tomato Suace, Onion",
+      "instruction": "1. Boil Noodels..\n2. cook the chicken... \n3 add Tomato sauce.."
+    },
+    {
+      "title": "Daal Makhani",
+      "ingredients": "Daal, Onion, Masala Tikha",
+      "instruction": "Wash complete Daal, cut onion , add masala ",
+      "id": 4,
+      "image": "https://tse3.mm.bing.net/th/id/OIP.8EmirzuoYxnFDZ-MuRMK5wAAAA?pid=ImgDet&rs=1"
+    },
+    {
+      "title": "Gulab Jaam",
+      "image": "https://bolnews.s3.amazonaws.com/wp-content/uploads/2020/12/2-12.jpg",
+      "ingredients": "Rava, Watery Sugar, kesar, Crushed Coconut, ",
+      "instruction": "Make circular jamuns, fried with watery sugar ",
+      "id": 5
+    }
+  ],
+  "favourite": []
+}
