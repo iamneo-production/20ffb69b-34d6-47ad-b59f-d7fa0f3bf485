@@ -62,7 +62,6 @@ function Create_Receipe() {
                 </div>
             </div>
         </div>
-
     )
 }
 export default Create_Receipe

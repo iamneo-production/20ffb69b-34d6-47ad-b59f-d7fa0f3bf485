@@ -10,16 +10,16 @@
     {
       "id": 2,
       "title": "Manchurian",
-      "image": "https://th.bing.com/th/id/R.513eb4f029138675e7013e0fa3354829?rik=If9tEkJVaikAng&riu=http%3a%2f%2f1.bp.blogspot.com%2f-WKbiC_NNHJ8%2fVB01t-KaW6I%2fAAAAAAAAAO4%2fnLHpU6k9TV4%2fs1600%2fVegetable-manchurian.jpg&ehk=m99rIbbTjn5IBSrDSIdFcq3Qru98egZwndhPt5NHmfk%3d&risl=&pid=ImgRaw&r=0",
+      "image": "https://i2.wp.com/vegecravings.com/wp-content/uploads/2017/03/veg-manchurian-dry-recipe-step-by-step-instructions-10.jpg?fit=2412%2C1944&quality=30&strip=all&ssl=1",
       "ingredients": "Cabbage, Salt, Onion, Chiili Sauce",
       "instruction": "1. Cut cabbages..2. cook the chicken... 3 add Tomato sauce.."
     },
     {
       "id": 3,
       "title": "Samosa",
-      "image": "https://tse1.mm.bing.net/th/id/OIP.Xp2RQVjyCr3kN1G8VhcK_wHaE_?pid=ImgDet&rs=1",
-      "ingredients": "Noodles, Chicken,Tomato Suace, Onion",
-      "instruction": "1. Boil Noodels..\n2. cook the chicken... \n3 add Tomato sauce.."
+      "image": "https://tse2.mm.bing.net/th/id/OIP.H07CBTMrpjLVNCwVZ_bu_QAAAA?pid=ImgDet&w=474&h=322&rs=1",
+      "ingredients": "Aloo, Masala, Tomato Suace, Onion",
+      "instruction": "1. Boil Aloo..2. cook the chicken... 3 add Tomato sauce.."
     },
     {
       "title": "Daal Makhani",
@@ -34,6 +34,13 @@
       "ingredients": "Rava, Watery Sugar, kesar, Crushed Coconut, ",
       "instruction": "Make circular jamuns, fried with watery sugar ",
       "id": 5
+    },
+    {
+      "title": "Poha",
+      "image": "https://wp-public-fs.s3.ap-south-1.amazonaws.com/tasks/15eeded921d8860d985d1e734c8630487edd30e377eb07/images/17752-5ef1f6e34187c.jpg",
+      "ingredients": "Onion, Shegdane, lahsoon, jira, poha",
+      "instruction": "Cook nicely",
+      "id": 6
     }
   ],
   "favourite": []
