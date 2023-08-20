@@ -1,0 +1,14 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "noodles",
+        "ingredients": ["noodles", "chicken", "tomato sauce", "onion", "garlic"],
+        "instructions": "1. Boil noodles...\n2. cook the chiekn...\n3. Add tomato sauce...",
+        "image": "noodles.jpg"
+      }
+      
+    ],
+    "favorites": []
+  }
+  
